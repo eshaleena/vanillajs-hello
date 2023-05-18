@@ -7,5 +7,6 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   let randomNumber = Math.random() * 10;
+
   console.log("Hello Rigo from the console!");
 };
